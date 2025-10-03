@@ -1,6 +1,0 @@
-[submodule "css-exercises"]
-	path = css-exercises
-	url = git@github.com:BlakKMango/css-exercises.git
-[submodule "odin-recipes"]
-	path = odin-recipes
-	url = git@github.com:BlakKMango/odin-recipes.git
