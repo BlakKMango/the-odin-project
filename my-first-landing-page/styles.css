@@ -49,15 +49,14 @@ li {
     background-color: #1f2937;
     min-height: 400px;
     padding: 0 15%;
+    gap: 80px;
 }
 
 .he-c {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 16px;
-    flex: 0 1 50%;
-    max-height: 340px;
+    gap: auto;
 }
 
 .he-c-title {
@@ -90,6 +89,7 @@ li {
 
 img {
     border-radius: 5px;
+    max-width: 500px;
 }
 
 
@@ -101,7 +101,13 @@ img {
     border: 2px solid #1f2937;
     background-color: white;
     min-height: 400px;
-    padding: 0 15%;
+    padding: 40px 15%;
+}
+
+.in-title {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
 }
 
 /* quote */
