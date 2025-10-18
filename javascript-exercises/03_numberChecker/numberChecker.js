@@ -1,5 +1,5 @@
 function numberChecker(number) {
-  if (number === 6) {
+  if ((number >= 10) && (number != 9) && (number != 6)){
     return true;
   } else {
     return false;
