@@ -1,4 +1,12 @@
+const firstName = "Carlos"
+const lastName = "Stevenson"
+const fullName = firstName + " " + lastName
+const thisYear = 1965
+const birthYear = 1947
+const age = thisYear - birthYear
+const greeting = "Hello! My name is " + fullName + " and I am " + age + " years old."
 /*
+
  First name: Carlos
  Last name: Stevenson
  This year: 1965
